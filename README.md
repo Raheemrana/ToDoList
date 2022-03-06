@@ -1,5 +1,4 @@
 # ToDoList
-This is an assignment I have done for CarteBlanche
 It is actually a To Do app that keeps the record of your daily tasks
 It uses React on the Front End and
 Nodes JS (Express JS) along SQLite3 database on the backend
