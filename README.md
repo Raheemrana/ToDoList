@@ -4,7 +4,7 @@ It uses React on the Front End and
 Nodes JS (Express JS) along SQLite3 database on the backend
 
 It does all the required things as asked in the assignment and also 
-follows the given UI but I missed doing 2 things 1- delete task 2- edit task
+follows the given UI but I missed doing 2 things
 Other than this I have given time on authentication from both sides, the smooth
 working of showing and creating new tasks and CRUD operations on database
 
