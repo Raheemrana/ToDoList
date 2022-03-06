@@ -1,0 +1,19 @@
+.bdge{
+    font-weight: normal !important;
+    margin-left: 3px !important;
+    margin-right: 3px !important;
+    margin-top: auto !important;
+    margin-bottom: auto !important;
+    background-color: #939393 !important;
+}
+
+.ficon{
+    cursor: pointer !important;
+    color: #0B4B36 !important;
+    margin-left: 20px;
+}
+
+.cardd{
+    font-family:Helvetica;
+    color:#4C4C4C;
+}
