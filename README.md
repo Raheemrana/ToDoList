@@ -12,7 +12,9 @@ working of showing and creating new tasks.
 To run this code:
 - Clone the git
 - Get to the terminal of Frontend folder and do 'npm install'
+- To run Frontend run 'npm start' command on terminal
 - Get to the terminal of Backend folder and do 'npm i express'
+- To run Backend run 'npm run dev' command on terminal
 
 This would pretty much work for this.
 
