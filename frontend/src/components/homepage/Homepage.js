@@ -5,12 +5,10 @@ import { createtask } from "../../actions/createtask";
 import { alltasks } from "../../actions/alltasks";
 
 const Homepage = () => {
-
   const [labels, setLabels] = React.useState([]);
   const [tasks, setTasks] = React.useState([]);
   const [authenticated, setauthenticated] = React.useState()
   const [ref, setref] = React.useState(false)
-
 
   React.useEffect(() => {
     alltasks(
