@@ -17,8 +17,6 @@ To run this code:
 
 This would pretty much work for this.
 
-phew I know I have made typo in Frontend folder name
-
 Screenshots of UI has been attached 
 ![image](https://user-images.githubusercontent.com/59764290/156939116-0cda80bf-6d31-4d37-bbf9-6c493a3fc101.png)
 ![image](https://user-images.githubusercontent.com/59764290/156939137-0ec8f503-04f4-4602-a1e4-9cc7789352c4.png)
